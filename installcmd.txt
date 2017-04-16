@@ -1,0 +1,17 @@
+oco install -y vivaldi
+choco install -y PDFXChangeViewer
+choco install -y filezilla 
+choco install -y Firefox
+choco install -y winscp
+choco install -y vmware-workstation-player 
+choco install -y teraterm
+choco install -y GoogleChrome
+choco install -y gimp
+choco install -y dropbox
+choco install -y skype
+
+choco install -y tftpd32
+choco install -y GoogleJapaneseInput
+choco install -y virtualbox
+choco install  -y vagrant
+choco install -y jdk8
