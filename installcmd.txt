@@ -1,4 +1,4 @@
-oco install -y vivaldi
+choco install -y vivaldi
 choco install -y PDFXChangeViewer
 choco install -y filezilla 
 choco install -y Firefox
